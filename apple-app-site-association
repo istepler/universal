@@ -1,11 +1,15 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "GBJ82WR7RH.io.chingari.ios",
-      "paths": ["*"]
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "GBJ82WR7RH.io.chingari.ios",
+                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*"]
+            },
+            {
+                "appID": "GBJ82WR7RH.io.chingari.ios",
+                "paths": [ "*" ]
+            }
+        ]
     }
-    ]
-  }
 }
